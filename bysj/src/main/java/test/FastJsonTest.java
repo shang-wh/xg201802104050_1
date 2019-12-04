@@ -1,13 +1,9 @@
 package test;
 
 import cn.edu.sdjzu.xg.bysj.domain.School;
-import cn.edu.sdjzu.xg.bysj.domain.Teacher;
 import cn.edu.sdjzu.xg.bysj.service.SchoolService;
-import cn.edu.sdjzu.xg.bysj.service.TeacherService;
 import com.alibaba.fastjson.JSON;
-import com.alibaba.fastjson.serializer.SerializerFeature;
-import netscape.javascript.JSException;
-import netscape.javascript.JSObject;
+
 
 import java.sql.SQLException;
 import java.util.Collection;
