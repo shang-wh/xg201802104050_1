@@ -1,7 +1,7 @@
 package test;
 
-import cn.edu.sdjzu.xg.bysj.domain.School;
-import cn.edu.sdjzu.xg.bysj.service.SchoolService;
+import domain.School;
+import service.SchoolService;
 import com.alibaba.fastjson.JSON;
 
 

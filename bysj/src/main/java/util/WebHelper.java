@@ -1,6 +1,6 @@
 package util;
 
-import cn.edu.sdjzu.xg.bysj.domain.User;
+import domain.User;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
